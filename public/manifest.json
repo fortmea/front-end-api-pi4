@@ -1,0 +1,10 @@
+{
+  "name": "Lista de tarefas",
+  "short_name": "lista_tarefas",
+  "theme_color": "#0dcaf0",
+  "background_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}

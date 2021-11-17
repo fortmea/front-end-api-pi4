@@ -1,0 +1,28 @@
+{
+    "temas": {
+        "escuro": {
+            "nome": "Escuro",
+            "bg": "bg-dark",
+            "tc": "text-light",
+            "dc": "dropdown-menu-dark",
+            "bc": "btn-outline-info",
+            "oc": "border-info"
+        },
+        "claro": {
+            "nome": "Claro",
+            "bg": "bg-light",
+            "tc": "text-dark",
+            "dc": "dropdown-menu-light",
+            "bc": "btn-outline-info",
+            "oc": "border-info"
+        },
+        "rosa": {
+            "nome": "Rosa",
+            "bg": "bg-pink",
+            "tc": "text-light",
+            "dc": "dropdown-menu-pink",
+            "bc": "btn-outline-light",
+            "oc": "border-light"
+        }
+    }
+}
