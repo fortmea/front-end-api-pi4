@@ -3,7 +3,7 @@ export default function CommitReducer(state = {commit:{commit:{author:{}}, autho
         case "GET":
             return action.payload
         default:
-            console.log(state)
+            //console.log(state)
             return state
     }
 }
